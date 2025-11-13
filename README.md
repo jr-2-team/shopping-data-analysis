@@ -12,7 +12,11 @@
 - 주요 컬럼 : 'Location', 'Color', 'Season', 'Age' 등
 
 ## 3. 기술 통계 요약
-<img width="591" height="169" alt="image" src="https://github.com/user-attachments/assets/673aa499-3674-4df7-aff0-cc6d262e4b8c" />
+- 수치형 변수
+<img width="673" height="248" alt="image" src="https://github.com/user-attachments/assets/0bbe615d-7ad3-40eb-a85e-de6b27ec3fa2" />
+
+- 범주형 변수
+<img width="1262" height="121" alt="image" src="https://github.com/user-attachments/assets/d160c0a5-204b-44ce-baf6-eeb4b010814c" />
 
 
 ## 4. 결측치 및 이상치 탐색
