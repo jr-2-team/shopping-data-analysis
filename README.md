@@ -1,4 +1,4 @@
-<img width="989" height="1490" alt="image" src="https://github.com/user-attachments/assets/4727909b-eed3-4377-969f-6b31bdbc2b59" /># 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
+<img width="437" height="435" alt="image" src="https://github.com/user-attachments/assets/e9c081d1-fe91-4d1a-878b-52da37b481cb" /># 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
 데이터 분석 프로젝트 | 미국 소비자들의 쇼핑 행동 패턴 분석을 중심으로
 
 ## 0. 프로젝트 개요
@@ -71,6 +71,15 @@
 <img width="886" height="810" alt="image" src="https://github.com/user-attachments/assets/05c241f5-33fe-4109-8577-d219f4bca05d" />
 
 > 연령대별 색상 선호도(팔레트)
+<img width="437" height="435" alt="image" src="https://github.com/user-attachments/assets/0af8e451-33f3-4bb5-89f2-c9815ed59bda" />
+
+<img width="428" height="433" alt="image" src="https://github.com/user-attachments/assets/a7383ed8-d3da-4c61-85b5-b7a5394c1f63" />
+
+<img width="430" height="449" alt="image" src="https://github.com/user-attachments/assets/4aee3d6b-f9b7-4eac-97c9-e9ebbf91fab4" />
+
+
+<img width="414" height="452" alt="image" src="https://github.com/user-attachments/assets/a0c2f28b-b02d-4257-b869-4cefd79d530f" />
+
 
 
 > 연령대별 색상 선호도 및 구매 항목 상위 5가지
