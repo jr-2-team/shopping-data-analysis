@@ -50,6 +50,15 @@
 
 
 ## 5. 변수 간 관계 분석
+A. 연령대별로 모집단 분포를 확인한 뒤, 국가에서 지정한 표준 연령별로 모집단 분포를 나눔.
+<img width="699" height="474" alt="image" src="https://github.com/user-attachments/assets/a282f83e-9bfa-457c-8683-d0cc2658c168" />
+> 연령을 10개 단위로 나누어 확인한 모집단 분포
+<img width="699" height="474" alt="image" src="https://github.com/user-attachments/assets/e444da63-5c42-49ab-aad6-ad06d6b61e73" />
+> 전체적인 분포를 고려하여 연령을 4개층으로 분리
+- 청년층(18~34세)
+- 중년층(35~49세)
+- 장년층(50~64세)
+- 노년층(65세 이상~)
 
 
 ## 6. 파생 변수 및 전처리
