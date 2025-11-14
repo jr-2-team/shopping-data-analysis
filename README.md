@@ -1,4 +1,4 @@
-# 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
+<img width="980" height="578" alt="image" src="https://github.com/user-attachments/assets/14b001c5-ae74-4ff5-8e62-d169cb76d969" /># 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
 데이터 분석 프로젝트 | 미국 소비자들의 쇼핑 행동 패턴 분석을 중심으로
 
 ## 0. 프로젝트 개요
@@ -67,8 +67,11 @@
 <img width="1345" height="145" alt="image" src="https://github.com/user-attachments/assets/175d83ea-7a82-4cb9-aa71-b1f91674fb52" />
 <img width="1179" height="774" alt="image" src="https://github.com/user-attachments/assets/410b6529-162b-4e4f-8d7b-ce06fe0631a5" />
 
-> <img width="784" height="842" alt="image" src="https://github.com/user-attachments/assets/57529cbc-113a-4311-be66-58d32a0f0582" /><img width="784" height="842" alt="image" src="https://github.com/user-attachments/assets/c61dabb4-fd24-41a6-86ba-850ba2c53cd2" />
+> 연령대별 색상 선호도 및 구매 항목 상위 5가지
+<img width="798" height="425" alt="image" src="https://github.com/user-attachments/assets/2bcb80a6-e88c-4254-928c-1b83c2afa12f" />
 
+> 카테고리별 색상 선호도
+<img width="980" height="578" alt="image" src="https://github.com/user-attachments/assets/4ced4aac-d768-4978-8a9a-b2b31f1c7309" />
 
 
 ### A. 연령대별로 모집단 분포를 확인한 뒤, 국가에서 지정한 표준 연령별로 모집단 분포를 나눔.
@@ -90,10 +93,30 @@
 <img width="793" height="600" alt="image" src="https://github.com/user-attachments/assets/de790ce3-4bb4-4ea8-874a-3d980ea7f862" />
 > 동일한 모집단 수 조건에서 지역별 총 매출 확인
 
-### C.
+### C. 매출이 가장 많은 서부 지역 중, 세부 지역 (주) 별로 분리한 기준 매출 하위 3개 지역 추출
+<img width="1582" height="690" alt="image" src="https://github.com/user-attachments/assets/519b3b16-960e-4b25-b4e5-c30d5f029b74" />
 
-## 6. 파생 변수 및 전처리
-- 'Age' -> 구간화 ('청년', '중년', '장년', 노년')
-- 'Location' -> 그룹화 ('동부', '중부', '서부')
+### D. 하위 3개 지역의 매출 상승 방안을 고려하기 위해 다양한 관점에서 진행한 데이터/상관관계 분석
+<img width="1990" height="1475" alt="image" src="https://github.com/user-attachments/assets/2b37c414-39ef-459a-9dee-a46157063141" />
+<img width="1990" height="691" alt="image" src="https://github.com/user-attachments/assets/b6bfbda1-2fac-461c-a3ad-efc9433e529c" />
+
 
 ## 7. 요약 및 인사이트 도출
+
+> 요약
+
+주요 구매층 | 남성의 구매 비중이 여성의 약 2배 수준.	남성 타깃 중심의 마케팅 전략 필요
+구독 여부 | 구독 여부(YES/NO)는 여성 고객에게서는 전혀 나타나지 않았으며, 남성 고객에서만 확인되어 성별에 따른 명확한 이용 행태 차이를 보여줌
+연령대 분포	| 18~34, 35~39세`대(청·중년층)가 핵심 소비층
+주요 카테고리	| '의류' 가 가장 높은 구매율을 차지함
+변수 간 관계 기준에 따른 만족도	분포 |
+- 할인 고객보다 비할인 고객의 구매금액이 높음
+- 배송 방법은 무료배송, 표준배송이 평점 참여도 면에서 가장 많았으나, 무료배송이라고 하여 만족도가 무조건 높은 것은 아님.
+이전 구매 수 분석에 따른 재구매율 예측 | 여성에 비해 남성의 이전 구매 수가 비교적 높은 편이었고,
+남성의 경우 '주얼리', 여성의 경우 '반바지' 에 대한 이전 구매 수가 높음.
+
+
+> 결론
+서부 지역의 청년 남성을 주요 타겟으로, 의류·악세사리 중심의 트렌디한 상품군을 시즌별로 전개하고
+색상·가격 전략을 세분화한다면, 단기적으로 지역 매출을 회복하고 장기적으로 브랜드 충성도를 확보할 수 있다.
+
