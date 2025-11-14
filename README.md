@@ -48,8 +48,21 @@
 - 결측치 : 없음
 - 이상치 : 없음
 
+## 5. 데이터 전처리
+| **1. 새로운 변수 생성** | 지역 변수 및 상품 카테고리 변수 생성 | - 고객의 거주지(Location)를 기반으로 `동부(East)`, `중부(Central)`, `서부(West)`로 구분하는 `Region` 변수 생성<br>- 상품명(Item Purchased)을 기준으로 의류 및 패션 제품을 `상의`, `하의`, `원피스`, `신발`, `가방`, `액세서리`, `기타`로 재분류하는 `Item Category (Refined)` 변수 생성 |
+| **2. 그룹핑 처리 및 범주 단순화** | 연령 및 평점 구간화 | - `Age` 변수를 구간별로 묶어 국가에서 지정한 표준 연령대로 `18~34` 청년층, `35~49` 중년층, `50~64` 장년층, `65~` 노년층 의 연령대를 생성하고, <br>- `Review Rating`을 1점대~5점대로 구간화하여 고객 만족도 분포 분석을 용이하게 하였음 |
+| **3. 편향 개선** | 데이터 균형화 | - 지역별 및 연령대별 데이터 불균형 완화를 위해 각 그룹별 동일 인원 수(예: 65명, 1000명)로 샘플링 수행<br>- 표본 간 편차를 최소화하여 통계적 신뢰도 확보 |
 
-## 5. 변수 간 관계 분석
+## 6. 변수 간 관계 분석
+
+> 성별, 구매항목에 따른 지출금액 평균
+<img width="1345" height="145" alt="image" src="https://github.com/user-attachments/assets/175d83ea-7a82-4cb9-aa71-b1f91674fb52" />
+<img width="1179" height="774" alt="image" src="https://github.com/user-attachments/assets/410b6529-162b-4e4f-8d7b-ce06fe0631a5" />
+
+> <img width="784" height="842" alt="image" src="https://github.com/user-attachments/assets/57529cbc-113a-4311-be66-58d32a0f0582" /><img width="784" height="842" alt="image" src="https://github.com/user-attachments/assets/c61dabb4-fd24-41a6-86ba-850ba2c53cd2" />
+
+
+
 ### A. 연령대별로 모집단 분포를 확인한 뒤, 국가에서 지정한 표준 연령별로 모집단 분포를 나눔.
 <img width="699" height="474" alt="image" src="https://github.com/user-attachments/assets/a282f83e-9bfa-457c-8683-d0cc2658c168" />
 
@@ -63,12 +76,13 @@
 - 장년층(50~64세)
 - 노년층(65세 이상~)
 
-### B. 미국 지역별(동부/중부/서부) 인구 밀집도 및 인구 수를 확인하고, 만약 인구 수의 차이가 크다면 모집단 수를 동등한 조건으로 맞춰준 뒤, 그 기준으로 총 매출을 확인
+### B. 미국 지역별(동부/중부/서부) 인구 밀집도 및 인구 수를 확인하고, 모집단 수를 동등하게 맞춘 기준의 총 매출을 확인
 <img width="763" height="314" alt="image" src="https://github.com/user-attachments/assets/72fa93c6-c620-4dfe-b1a3-6c8ad60d3b79" />
 > 지역별 인구 밀집도
 <img width="793" height="600" alt="image" src="https://github.com/user-attachments/assets/de790ce3-4bb4-4ea8-874a-3d980ea7f862" />
 > 동일한 모집단 수 조건에서 지역별 총 매출 확인
 
+### C.
 
 ## 6. 파생 변수 및 전처리
 - 'Age' -> 구간화 ('청년', '중년', '장년', 노년')
