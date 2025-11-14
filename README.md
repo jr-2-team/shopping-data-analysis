@@ -1,4 +1,4 @@
-# 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
+<img width="989" height="1490" alt="image" src="https://github.com/user-attachments/assets/4727909b-eed3-4377-969f-6b31bdbc2b59" /># 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
 데이터 분석 프로젝트 | 미국 소비자들의 쇼핑 행동 패턴 분석을 중심으로
 
 ## 0. 프로젝트 개요
@@ -67,6 +67,12 @@
 <img width="1345" height="145" alt="image" src="https://github.com/user-attachments/assets/175d83ea-7a82-4cb9-aa71-b1f91674fb52" />
 <img width="1179" height="774" alt="image" src="https://github.com/user-attachments/assets/410b6529-162b-4e4f-8d7b-ce06fe0631a5" />
 
+> 서부지역의 연령대에 따른 카테고리별 구매율
+<img width="886" height="810" alt="image" src="https://github.com/user-attachments/assets/05c241f5-33fe-4109-8577-d219f4bca05d" />
+
+> 연령대별 색상 선호도(팔레트)
+
+
 > 연령대별 색상 선호도 및 구매 항목 상위 5가지
 <img width="798" height="425" alt="image" src="https://github.com/user-attachments/assets/2bcb80a6-e88c-4254-928c-1b83c2afa12f" />
 
@@ -93,10 +99,13 @@
 <img width="793" height="600" alt="image" src="https://github.com/user-attachments/assets/de790ce3-4bb4-4ea8-874a-3d980ea7f862" />
 > 동일한 모집단 수 조건에서 지역별 총 매출 확인
 
-### C. 매출이 가장 많은 서부 지역 중, 세부 지역 (주) 별로 분리한 기준 매출 하위 3개 지역 추출
+### C. 매출이 가장 많은 서부 지역 중, 계절별 상품 판매 수
+<img width="989" height="1490" alt="image" src="https://github.com/user-attachments/assets/3d221bd9-c6aa-4862-a048-8efc6a8113b3" />
+
+### D. 세부 지역(주) 별로 분리한 기준 매출 하위 3개 지역 추출
 <img width="1582" height="690" alt="image" src="https://github.com/user-attachments/assets/519b3b16-960e-4b25-b4e5-c30d5f029b74" />
 
-### D. 하위 3개 지역의 매출 상승 방안을 고려하기 위해 다양한 관점에서 진행한 데이터/상관관계 분석
+### E. 하위 3개 지역의 매출 상승 방안을 고려하기 위해 다양한 관점에서 진행한 데이터/상관관계 분석
 <img width="1990" height="1475" alt="image" src="https://github.com/user-attachments/assets/2b37c414-39ef-459a-9dee-a46157063141" />
 <img width="1990" height="691" alt="image" src="https://github.com/user-attachments/assets/b6bfbda1-2fac-461c-a3ad-efc9433e529c" />
 
@@ -123,6 +132,6 @@
 
 > ### 결론
 
-서부 지역의 청년 남성을 주요 타겟으로, 의류·악세사리 중심의 트렌디한 상품군을 시즌별로 전개하고
+서부 지역의 청년 남성을 주요 타겟으로, 의류·악세사리 중심의 트렌디한 상품군을 시즌별로 전개하고,
 색상·가격 전략을 세분화한다면, 단기적으로 지역 매출을 회복하고 장기적으로 브랜드 충성도를 확보할 수 있다.
 
