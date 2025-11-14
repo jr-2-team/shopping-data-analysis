@@ -1,4 +1,4 @@
-# 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
+<img width="763" height="314" alt="image" src="https://github.com/user-attachments/assets/aa17cea0-2f5c-4ba9-979f-2b2c24f38f29" /># 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
 데이터 분석 프로젝트 | 미국 소비자들의 쇼핑 행동 패턴 분석을 중심으로
 
 ## 0. 프로젝트 개요
@@ -53,12 +53,20 @@
 A. 연령대별로 모집단 분포를 확인한 뒤, 국가에서 지정한 표준 연령별로 모집단 분포를 나눔.
 <img width="699" height="474" alt="image" src="https://github.com/user-attachments/assets/a282f83e-9bfa-457c-8683-d0cc2658c168" />
 > 연령을 10개 단위로 나누어 확인한 모집단 분포
+
 <img width="699" height="474" alt="image" src="https://github.com/user-attachments/assets/e444da63-5c42-49ab-aad6-ad06d6b61e73" />
 > 전체적인 분포를 고려하여 연령을 4개층으로 분리
-- 청년층(18~34세)
-- 중년층(35~49세)
-- 장년층(50~64세)
-- 노년층(65세 이상~)
+  - 청년층(18~34세)
+  - 중년층(35~49세)
+  - 장년층(50~64세)
+  - 노년층(65세 이상~)
+
+B. 미국 지역별(동부/중부/서부) 인구 밀집도 및 인구 수를 확인하고,
+인구 수의 차이가 크다면 모집단 수를 동등한 조건으로 맞춰준 뒤, 그 기준으로 총 매출을 확인
+<img width="763" height="314" alt="image" src="https://github.com/user-attachments/assets/72fa93c6-c620-4dfe-b1a3-6c8ad60d3b79" />
+> 지역별 인구 밀집도
+<img width="793" height="600" alt="image" src="https://github.com/user-attachments/assets/de790ce3-4bb4-4ea8-874a-3d980ea7f862" />
+> 동일한 모집단 수 조건에서 지역별 총 매출 확인
 
 
 ## 6. 파생 변수 및 전처리
