@@ -1,4 +1,4 @@
-<img width="437" height="435" alt="image" src="https://github.com/user-attachments/assets/e9c081d1-fe91-4d1a-878b-52da37b481cb" /># 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
+# 온라인 쇼핑 저매출 지역 타깃 마케팅 전략
 데이터 분석 프로젝트 | 미국 소비자들의 쇼핑 행동 패턴 분석을 중심으로
 
 ## 0. 프로젝트 개요
